@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1034753129308",
+    "project_id": "fir-queue-management",
+    "storage_bucket": "fir-queue-management.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1034753129308:android:3f361703012927996d1f99",
+        "android_client_info": {
+          "package_name": "com.stefproject.firebasequeuemanagement"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1034753129308-0c1e1sbn5psbp9qk9irnondtnis8spv1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQ1lzEG1XbcZzY1nDyjDBTPhFoixtpfQk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1034753129308-0c1e1sbn5psbp9qk9irnondtnis8spv1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
